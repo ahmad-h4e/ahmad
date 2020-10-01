@@ -1,3 +1,20 @@
 h1 {
-    color: red;
+    color: rgb(30, 255, 0);
+}
+h2{
+    color: #0000ff;
+}
+h3 {
+    color: #0000ff;
+}
+
+h4{
+    color: #0000ff;
+}
+
+h5{
+    color: #0000ff
+}
+#ik{
+    width: 250px;
 }
